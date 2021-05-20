@@ -10,6 +10,7 @@ import (
 
 func main() {
 	var userNumber int
+	var random int
 
 	// input
 
@@ -20,8 +21,8 @@ func main() {
 	rand.Seed(time.Now().UnixNano())
 	min := 1
 	max := 6
-	
-	const random = rand.Intn(max-min) + min
+
+	random = rand.Intn(max-min) + min
 
 	// output
 	if random == userNumber {
