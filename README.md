@@ -1,1 +1,2 @@
 # ICS2O-Unit5-01-Go-Random_Number
+[![GitHub's Super Linter](https://github.com/Infinity-deGuzman/ICS2O-Unit5-01-Go-Random_Number/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Infinity-deGuzman/ICS2O-Unit5-01-Go-Random_Number/actions)
