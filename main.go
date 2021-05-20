@@ -10,12 +10,11 @@ import (
 
 func main() {
 	var userNumber int
-	
+
 	// input
 
 	fmt.Print("Guess an integer from 1 to 6: ")
 	fmt.Scanln(&userNumber)
-
 
 	// process
 	rand.Seed(time.Now().UnixNano())
